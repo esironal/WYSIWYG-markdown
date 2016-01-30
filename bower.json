@@ -1,0 +1,20 @@
+{
+  "name": "markdown-editor",
+  "version": "0.0.0",
+  "authors": [
+    "Frank Cheng <ufo22940268@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "~2.4.5",
+    "chai": "~3.5.0",
+    "bootstrap": "~3.3.6"
+  }
+}
